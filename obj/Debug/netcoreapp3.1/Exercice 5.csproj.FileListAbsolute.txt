@@ -1,0 +1,13 @@
+C:\Users\Jérôme\Documents\www\C#\P2\Conditions\Exercice 5\bin\Debug\netcoreapp3.1\Exercice 5.exe
+C:\Users\Jérôme\Documents\www\C#\P2\Conditions\Exercice 5\bin\Debug\netcoreapp3.1\Exercice 5.deps.json
+C:\Users\Jérôme\Documents\www\C#\P2\Conditions\Exercice 5\bin\Debug\netcoreapp3.1\Exercice 5.runtimeconfig.json
+C:\Users\Jérôme\Documents\www\C#\P2\Conditions\Exercice 5\bin\Debug\netcoreapp3.1\Exercice 5.runtimeconfig.dev.json
+C:\Users\Jérôme\Documents\www\C#\P2\Conditions\Exercice 5\bin\Debug\netcoreapp3.1\Exercice 5.dll
+C:\Users\Jérôme\Documents\www\C#\P2\Conditions\Exercice 5\bin\Debug\netcoreapp3.1\Exercice 5.pdb
+C:\Users\Jérôme\Documents\www\C#\P2\Conditions\Exercice 5\obj\Debug\netcoreapp3.1\Exercice 5.csprojAssemblyReference.cache
+C:\Users\Jérôme\Documents\www\C#\P2\Conditions\Exercice 5\obj\Debug\netcoreapp3.1\Exercice 5.AssemblyInfoInputs.cache
+C:\Users\Jérôme\Documents\www\C#\P2\Conditions\Exercice 5\obj\Debug\netcoreapp3.1\Exercice 5.AssemblyInfo.cs
+C:\Users\Jérôme\Documents\www\C#\P2\Conditions\Exercice 5\obj\Debug\netcoreapp3.1\Exercice 5.csproj.CoreCompileInputs.cache
+C:\Users\Jérôme\Documents\www\C#\P2\Conditions\Exercice 5\obj\Debug\netcoreapp3.1\Exercice 5.dll
+C:\Users\Jérôme\Documents\www\C#\P2\Conditions\Exercice 5\obj\Debug\netcoreapp3.1\Exercice 5.pdb
+C:\Users\Jérôme\Documents\www\C#\P2\Conditions\Exercice 5\obj\Debug\netcoreapp3.1\Exercice 5.genruntimeconfig.cache
